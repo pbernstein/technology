@@ -18,9 +18,11 @@ Context:
 https://www.youtube.com/watch?v=O5nskjZ_GoI
 
 
-Your development enviroment: 
+A free development enviroment: 
 
-https://c9.io/
+https://codeanywhere.com
+Tutorials: https://www.youtube.com/watch?v=34-FcDuJ5zc
+Tutorials: https://www.youtube.com/watch?v=7rHWGzDH-NM
 
 
 What is a conference?
@@ -33,7 +35,14 @@ Non Traditional Technology Careers
 https://8thlight.com/
 
 
-
 Projects:
 
 https://github.com/explore
+https://github.com/collections/choosing-projects
+
+
+Ikigai:
+
+https://assets.weforum.org/editor/tyvToPYsyaZXtaFiUISw-P6abde6j84YSh5o3tXq81c.jpg
+
+

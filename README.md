@@ -1,8 +1,3 @@
-Welcome to StackEdit!
-===================
-
-
-
 
 # Why a career in tech?
 

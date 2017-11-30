@@ -2,6 +2,7 @@
 # Why a career in tech?
 
 > Ikigai:
+
 > https://assets.weforum.org/editor/tyvToPYsyaZXtaFiUISw-P6abde6j84YSh5o3tXq81c.jpg
 
 # How do you build software?

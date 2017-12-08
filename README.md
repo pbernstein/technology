@@ -41,7 +41,7 @@ https://www.youtube.com/watch?v=O5nskjZ_GoI
 
 # Where can I build software?
 
-> Editors
+Editors
 * https://code.visualstudio.com
 * https://atom.io
 

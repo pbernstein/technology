@@ -2,7 +2,9 @@
 
 # What Kinds of Jobs are there in Technology?
 
-Example: What happens when I search for something on google
+Servers, Server Administration, Server side applications, client side applications, UX work, mobile, games, etc..
+
+# What happens when I search for something on google
 
 [The Hardware](https://www.google.com/about/datacenters/inside/streetview/)
 

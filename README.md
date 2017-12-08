@@ -2,7 +2,7 @@
 
 # What Kinds of Jobs are there in Technology?
 
-There are many, many different kinds of jobs in technology.  Just to name a few areas of the industry, there are Servers, Server Administration, Server side applications, client side applications, UX work, mobile, games, etc..
+There are many, many different kinds of jobs in technology.  Just to name a few areas of the industry, there are people who focus on Servers, Server Administration, Server side applications, Security, client side applications, UX work, mobile, games, etc..
 
 # What happens when I search for something on google
 
@@ -22,35 +22,58 @@ There are many, many different kinds of jobs in technology.  Just to name a few 
 
 # How do you build software?
 
-[Basic programming](https://scratch.mit.edu/)
+* [Basic programming](https://scratch.mit.edu/)
 
-[Learn to code by playing a game](https://codecombat.com/play)
+* [Learn to code by playing a game](https://codecombat.com/play)
 
 More advanced:
 
-[Khan Academy](https://www.khanacademy.org/computing/computer-programming/programming)
+* [Khan Academy](https://www.khanacademy.org/computing/computer-programming/programming)
 
-[Code Academy](https://www.codecademy.com/)
+* [Code Academy](https://www.codecademy.com/)
 
-[Example Code Academy for Python](https://www.codecademy.com/catalog/language/python)
+* [Example Code Academy for Python](https://www.codecademy.com/catalog/language/python)
 
-[Context](https://www.youtube.com/watch?v=O5nskjZ_GoI)
+Context for the Technology world
+* [Crash Course Computer Science](https://www.youtube.com/watch?v=O5nskjZ_GoI)
+
+**  This is an entire playlist of videos from Crash Course. Some are more engaging than others, but they are all well done. 
+
+* Some Highlights are:
+
+** [Software Engineering](https://www.youtube.com/watch?v=O753uuutqH8&index=17&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+
+** [Files and Filesystems](https://www.youtube.com/watch?v=KN8YgJnShPM&index=21&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+
+** [Keyboards and command line interfaces](https://www.youtube.com/watch?v=4RPtJ9UyHS0&index=23&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+
+** [The Personal Computer Revolution](https://www.youtube.com/watch?v=M5BZou6C01w&index=26&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+
+** [Hackers and Cyber Security](https://www.youtube.com/watch?v=_GzE99AmAQU&index=33&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+
+
 
 # Where can I build software?
 
 Editors
+
 * [Visual Studio Code](https://code.visualstudio.com)
+
 * [Atom](https://atom.io)
 
 # What if I don't have a computer that I can install an editor on?
 
 Free development environments
+
 [Code Anywhere](https://codeanywhere.com)
-[Tutorial](https://www.youtube.com/watch?v=34-FcDuJ5zc)
-[Tutorial](https://www.youtube.com/watch?v=7rHWGzDH-NM)
+
+* [Tutorial](https://www.youtube.com/watch?v=34-FcDuJ5zc)
+
+* [Tutorial](https://www.youtube.com/watch?v=7rHWGzDH-NM)
 
 [C9](https://c9.io/)
-C9 is free, but it requires a credit card to register. You can use a visa gift card with no money on it
+
+* C9 is free, but it requires a credit card to register. You can use a visa gift card with no money on it
 
 # What if I don't have a computer at all?
 

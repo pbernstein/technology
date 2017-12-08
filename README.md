@@ -1,9 +1,27 @@
 
+
+# Some examples of what happens when you interact with technology
+
+Example: What happens when I search for something on google:
+
+The Hardware:
+ https://www.google.com/about/datacenters/inside/streetview/
+
+The architecture in text:
+http://highscalability.com/google-architecture
+
+The architecture in slides:
+https://www.slideshare.net/AditiTechnologies/google-architecture-breaking-it-open
+
+
+
 # Why a career in tech?
 
 > Ikigai:
 
 > https://assets.weforum.org/editor/tyvToPYsyaZXtaFiUISw-P6abde6j84YSh5o3tXq81c.jpg
+
+
 
 # How do you build software?
 
@@ -24,8 +42,8 @@
 # Where can I build software?
 
 > Editors
+* https://code.visualstudio.com
 * https://atom.io
-* https://code.visualstudio.com/
 
 What if I don't have a computer that I can install an editor on?
 
@@ -39,6 +57,10 @@ What if I don't have a computer that I can install an editor on?
 * Is free, but requires a credit card to register
 * Can use a visa gift card
 
+What if I don't have a computer at all?
+
+> The library is your friend!
+> https://www.chipublib.org/maker-lab/
 
 # What should I build?
 
@@ -48,13 +70,12 @@ What if I don't have a computer that I can install an editor on?
 > https://github.com/collections/choosing-projects
 
 
-
 # Finding a community (i.e. networking ) 
 
 > Communities online
 >
 
- >- Slack
+ - Slack
 https://slack.com/
 http://pythondevelopers.herokuapp.com/
 - IRC
@@ -75,7 +96,7 @@ https://www.meetup.com/topics/python/us/il/chicago/
 
 # A Job in Technology
 
-> The Non Traditional Route
+> The Non Traditional Route. An example
 https://8thlight.com/
 
 > What college does for you and why it's a good thing

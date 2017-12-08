@@ -1,49 +1,44 @@
 
 
-# Some examples of what happens when you interact with technology
+# What Kinds of Jobs are there in Technology?
 
-Example: What happens when I search for something on google:
+Example: What happens when I search for something on google
 
-The Hardware:
- https://www.google.com/about/datacenters/inside/streetview/
+[The Hardware](https://www.google.com/about/datacenters/inside/streetview/)
 
-The architecture in text:
-http://highscalability.com/google-architecture
+[The architecture in text](http://highscalability.com/google-architecture)
 
-The architecture in slides:
-https://www.slideshare.net/AditiTechnologies/google-architecture-breaking-it-open
+[The architecture in slides](https://www.slideshare.net/AditiTechnologies/google-architecture-breaking-it-open)
 
 
 
 # Why a career in tech?
 
-Ikigai:
-
-https://assets.weforum.org/editor/tyvToPYsyaZXtaFiUISw-P6abde6j84YSh5o3tXq81c.jpg
+[Ikigai](https://assets.weforum.org/editor/tyvToPYsyaZXtaFiUISw-P6abde6j84YSh5o3tXq81c.jpg)
 
 
 
 # How do you build software?
 
-Khan Academy:
+[Basic programming](https://scratch.mit.edu/)
 
-https://www.khanacademy.org/computing/computer-programming/programming
+[Learn to code by playing a game](https://codecombat.com/play)
 
-Code Academy:
+More advanced:
 
-https://www.codecademy.com/
+[Khan Academy](https://www.khanacademy.org/computing/computer-programming/programming)
 
-https://www.codecademy.com/catalog/language/python
+[Code Academy](https://www.codecademy.com/)
 
-Context:
+[Example Code Academy for Python](https://www.codecademy.com/catalog/language/python)
 
-https://www.youtube.com/watch?v=O5nskjZ_GoI
+[Context](https://www.youtube.com/watch?v=O5nskjZ_GoI)
 
 # Where can I build software?
 
 Editors
-* https://code.visualstudio.com
-* https://atom.io
+* [Visual Studio Code](https://code.visualstudio.com)
+* [Atom](https://atom.io)
 
 # What if I don't have a computer that I can install an editor on?
 
@@ -96,6 +91,8 @@ https://www.meetup.com/topics/python/us/il/chicago/
 
 The Non Traditional Route. An example
 https://8thlight.com/
+https://8thlight.com/blog/colin-jones/2017/10/24/advice-for-early-career-developers.html
+
 
 # What college does for you and why it's a good thing
 

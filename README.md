@@ -101,6 +101,7 @@ Projects
 ## Communities online
 
 [Slack](https://slack.com/)
+
 [Example Slack Channel](http://pythondevelopers.herokuapp.com/)
 
 [Example IRC Channel](https://www.reddit.com/r/learnpython/wiki/irc)
@@ -119,8 +120,10 @@ Projects
 
 # A Job in Technology
 
-The Non Traditional Route. An example
-[8th Light](https://8thlight.com/)
+The Non Traditional Route. 
+
+An example:  [8th Light](https://8thlight.com/)
+
 [Advice for Early Career Developers](https://8thlight.com/blog/colin-jones/2017/10/24/advice-for-early-career-developers.html)
 
 

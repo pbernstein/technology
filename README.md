@@ -97,9 +97,10 @@ https://www.meetup.com/topics/python/us/il/chicago/
 The Non Traditional Route. An example
 https://8thlight.com/
 
-#What college does for you and why it's a good thing
+# What college does for you and why it's a good thing
 
 What about For Profit Universities?
+- Google search their name with the word "Fraud", if you see a lot of stuff come back, avoid them.  Watch out for big sales pitches.
 
 
 

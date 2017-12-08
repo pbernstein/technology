@@ -44,9 +44,10 @@ More advanced:
 * [Example Code Academy for Python](https://www.codecademy.com/catalog/language/python)
 
 # Context for the Technology world
-* [Crash Course Computer Science](https://www.youtube.com/watch?v=O5nskjZ_GoI)
+ 
+This is an entire playlist of videos from Crash Course. Some are more engaging than others, but they are all well done:
 
-*  This is an entire playlist of videos from Crash Course. Some are more engaging than others, but they are all well done. 
+* [Crash Course Computer Science](https://www.youtube.com/watch?v=O5nskjZ_GoI)
 
 Some Highlights are:
 
@@ -70,6 +71,7 @@ Editors
 
 * [Atom](https://atom.io)
 
+
 # What if I don't have a computer that I can install an editor on?
 
 Free development environments
@@ -79,6 +81,7 @@ Free development environments
 * [Tutorial](https://www.youtube.com/watch?v=34-FcDuJ5zc)
 
 * [Tutorial](https://www.youtube.com/watch?v=7rHWGzDH-NM)
+
 
 [C9](https://c9.io/)
 
@@ -93,6 +96,7 @@ Free development environments
 Projects
 
 [Contribute to open source!](https://github.com/explore)
+
 [Which one should I pick?](https://github.com/collections/choosing-projects)
 
 

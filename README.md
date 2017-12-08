@@ -56,7 +56,7 @@ Tutorials: https://www.youtube.com/watch?v=7rHWGzDH-NM
 https://c9.io/
 Is free, but requires a credit card to register. Can use a visa gift card with no money on it
 
-#What if I don't have a computer at all?
+# What if I don't have a computer at all?
 
 The library is your friend!
 https://www.chipublib.org/maker-lab/

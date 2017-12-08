@@ -2,7 +2,7 @@
 
 # What Kinds of Jobs are there in Technology?
 
-Servers, Server Administration, Server side applications, client side applications, UX work, mobile, games, etc..
+There are many, many different kinds of jobs in technology.  Just to name a few areas of the industry, there are Servers, Server Administration, Server side applications, client side applications, UX work, mobile, games, etc..
 
 # What happens when I search for something on google
 
@@ -44,62 +44,61 @@ Editors
 
 # What if I don't have a computer that I can install an editor on?
 
-Free development environments: 
+Free development environments
+[Code Anywhere](https://codeanywhere.com)
+[Tutorial](https://www.youtube.com/watch?v=34-FcDuJ5zc)
+[Tutorial](https://www.youtube.com/watch?v=7rHWGzDH-NM)
 
-https://codeanywhere.com
-Tutorials: https://www.youtube.com/watch?v=34-FcDuJ5zc
-Tutorials: https://www.youtube.com/watch?v=7rHWGzDH-NM
-
-https://c9.io/
-Is free, but requires a credit card to register. Can use a visa gift card with no money on it
+[C9](https://c9.io/)
+C9 is free, but it requires a credit card to register. You can use a visa gift card with no money on it
 
 # What if I don't have a computer at all?
 
-The library is your friend!
-https://www.chipublib.org/maker-lab/
+[The library is your friend!](https://www.chipublib.org/maker-lab/)
 
 # What should I build?
 
-Projects:
+Projects
 
-https://github.com/explore
-https://github.com/collections/choosing-projects
+[Contribute to open source!](https://github.com/explore)
+[Which one should I pick?](https://github.com/collections/choosing-projects)
 
 
 # Finding a community (i.e. networking ) 
 
 ## Communities online
 
-Slack
-https://slack.com/
-http://pythondevelopers.herokuapp.com/
-IRC
-https://www.reddit.com/r/learnpython/wiki/irc
+[Slack](https://slack.com/)
+[Example Slack Channel](http://pythondevelopers.herokuapp.com/)
+
+[Example IRC Channel](https://www.reddit.com/r/learnpython/wiki/irc)
 
 
 ## Communities in the real world ( Conferences )
 
-https://www.thestrangeloop.com
+[Strange Loop Conference](https://www.thestrangeloop.com)
 
 
 ## Communities in Chicago 
 
-Meetups
-https://www.meetup.com/topics/python/us/il/chicago/
+[Meetups](https://www.meetup.com/topics/python/us/il/chicago/)
 
 
 
 # A Job in Technology
 
 The Non Traditional Route. An example
-https://8thlight.com/
-https://8thlight.com/blog/colin-jones/2017/10/24/advice-for-early-career-developers.html
+[8th Light](https://8thlight.com/)
+[Advice for Early Career Developers](https://8thlight.com/blog/colin-jones/2017/10/24/advice-for-early-career-developers.html)
 
 
 # What college does for you and why it's a good thing
 
-What about For Profit Universities?
-- Google search their name with the word "Fraud", if you see a lot of stuff come back, avoid them.  Watch out for big sales pitches.
+The benefits vs the debt
+
+# What about For Profit Universities?
+
+Google search their name with the word "Fraud", if you see a lot of stuff come back, avoid them.  Watch out for big sales pitches. In almost all cases, a community college is the better option.  
 
 
 

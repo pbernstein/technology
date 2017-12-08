@@ -2,9 +2,18 @@
 
 # What Kinds of Jobs are there in Technology?
 
-There are many, many different kinds of jobs in technology.  Just to name a few areas of the industry, there are people who focus on Servers, Server Administration, Server side applications, Security, client side applications, UX work, mobile, games, etc..
+There are many, many different kinds of jobs in technology.  Just to name a few areas of the industry, there are people who focus on
+* Servers ( putting the computers together ) 
+* Server Administration ( making sure the computer can run the programs ) 
+* Client side applications ( Web sites, desktop programs like Word, etc ) 
+* Server side applications ( What you are talking to when you visit a website ) 
+* Security ( Keeping the bad guys out )
+* UX work ( Making websites and other programs pretty ) 
+* Mobile ( Everything on your phone ) 
+* Games ( Client side apps + graphics, music, and a story ) 
+* And a ton of other things 
 
-# What happens when I search for something on google
+# What happens when I search for something on google?
 
 [The Hardware](https://www.google.com/about/datacenters/inside/streetview/)
 
@@ -34,22 +43,22 @@ More advanced:
 
 * [Example Code Academy for Python](https://www.codecademy.com/catalog/language/python)
 
-Context for the Technology world
+# Context for the Technology world
 * [Crash Course Computer Science](https://www.youtube.com/watch?v=O5nskjZ_GoI)
 
-**  This is an entire playlist of videos from Crash Course. Some are more engaging than others, but they are all well done. 
+*  This is an entire playlist of videos from Crash Course. Some are more engaging than others, but they are all well done. 
 
-* Some Highlights are:
+Some Highlights are:
 
-** [Software Engineering](https://www.youtube.com/watch?v=O753uuutqH8&index=17&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+* [Software Engineering](https://www.youtube.com/watch?v=O753uuutqH8&index=17&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 
-** [Files and Filesystems](https://www.youtube.com/watch?v=KN8YgJnShPM&index=21&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+* [Files and Filesystems](https://www.youtube.com/watch?v=KN8YgJnShPM&index=21&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 
-** [Keyboards and command line interfaces](https://www.youtube.com/watch?v=4RPtJ9UyHS0&index=23&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+* [Keyboards and command line interfaces](https://www.youtube.com/watch?v=4RPtJ9UyHS0&index=23&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 
-** [The Personal Computer Revolution](https://www.youtube.com/watch?v=M5BZou6C01w&index=26&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+* [The Personal Computer Revolution](https://www.youtube.com/watch?v=M5BZou6C01w&index=26&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 
-** [Hackers and Cyber Security](https://www.youtube.com/watch?v=_GzE99AmAQU&index=33&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+* [Hackers and Cyber Security](https://www.youtube.com/watch?v=_GzE99AmAQU&index=33&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 
 
 
@@ -117,7 +126,7 @@ The Non Traditional Route. An example
 
 # What college does for you and why it's a good thing
 
-The benefits vs the debt
+The benefits vs the debt. At some point, writing software is about being able to 
 
 # What about For Profit Universities?
 

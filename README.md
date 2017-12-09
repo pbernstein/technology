@@ -61,6 +61,10 @@ Some Highlights are:
 
 * [Hackers and Cyber Security](https://www.youtube.com/watch?v=_GzE99AmAQU&index=33&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 
+# Industry History
+
+[What Is Code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
+
 
 
 # Where can I build software?

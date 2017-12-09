@@ -110,9 +110,6 @@ Projects
 
 [Slack](https://slack.com/)
 
-[Example Slack Channel](http://pythondevelopers.herokuapp.com/)
-
-[Example IRC Channel](https://www.reddit.com/r/learnpython/wiki/irc)
 
 
 ## Communities in the real world ( Conferences )

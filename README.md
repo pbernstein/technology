@@ -134,7 +134,7 @@ An example:  [8th Light](https://8thlight.com/)
 
 # What college does for you and why it's a good thing
 
-The benefits vs the debt. At some point, writing software is about being able to 
+The benefits vs the debt. At some point, writing software is about being able to communicate with a team. That means a lot of writing, reading, speaking, and maybe even some fundamental computer science. 
 
 # What about For Profit Universities?
 

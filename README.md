@@ -103,22 +103,11 @@ Projects
 
 # Finding a community (i.e. networking ) 
 
-## Communities online
-
-[Slack](https://slack.com/)
-
-
 
 ## Communities in the real world ( Conferences )
 
-[Strange Loop Conference](https://www.thestrangeloop.com)
-
-
-## Communities in Chicago 
-
-[Meetups](https://www.meetup.com/topics/python/us/il/chicago/)
-
-
+[Chicago Hack Night](https://chihacknight.org/)
+[Code for Good](https://www.codeyourdreams.org/code-for-good)
 
 # A Job in Technology
 

@@ -107,6 +107,7 @@ Projects
 ## Communities in the real world ( Conferences )
 
 [Chicago Hack Night](https://chihacknight.org/)
+
 [Code for Good](https://www.codeyourdreams.org/code-for-good)
 
 # A Job in Technology
